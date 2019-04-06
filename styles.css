@@ -1,0 +1,15 @@
+html {
+    background: navy;
+}
+
+.textRed {
+    color: red;
+}
+
+.friend {
+    background: yellowgreen;
+}
+
+.allCaps {
+    text-transform: uppercase 
+}
